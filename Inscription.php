@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>EMI Shop</title>
+<link rel="icon" type="iamge/png" href="img\logoo.png" />
 
     <!-- Our Js -->
     <script src="js/javascript.js"></script>
@@ -63,17 +64,17 @@
       </div>
     </div>
   </div>
-        
+
 
   <button type="submit" class="btn btn-primary">S'inscrire</button>
-</form> 
+</form>
 <br>
 <br>
       <!-- FOOTER -->
         <?php include("footer.php"); ?>
-      
+
     </main>
-   
+
     <!-- bootstap Js -->
     <script src="js/jquery-3.5.1.slim.min.js" ></script>
 <script src="js/popper.min.js" ></script>

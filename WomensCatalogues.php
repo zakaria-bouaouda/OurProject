@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>EMI Shop</title>
+<link rel="icon" type="iamge/png" href="img\logoo.png" />
 
     <!-- Our Js -->
     <script src="js/javascript.js"></script>
@@ -34,7 +35,7 @@
       <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img"><rect width="100%" height="100%" fill="#777"/></svg>
       <div class="container">
         <div class="carousel-caption text-left">
-         
+
           <h4> Soyez le Bienvenue dans notre shop </h4>
           <p><a class="btn btn-lg btn-primary" href="Inscription.php" role="button">S'inscrire aujourd'hui</a></p>
         </div>
@@ -97,15 +98,15 @@
   </div><!-- /.row -->
        <div id="acceuilProducts">
         <!-- START THE FEATURETTES -->
-    
+
          <br class="featurette-divider">
-     
+
          <div class="row featurette">
           <div class="col-md-7">
             <h2 class="featurette-heading">Sac des femmes de vrai cuir  <span class="text-muted">Soyez les premiers a acheter !</span></h2>
             <p class="lead">
               <!-- description de sac -->
-              Le sac ethnique ou à main est un véritable accessoire de mode. 
+              Le sac ethnique ou à main est un véritable accessoire de mode.
               Les femmes en raffolent car le sac à main est l’accessoire pratique qui pourra contenir tout ce dont elles ont besoin dans une journée,
                de l’argent, les clés, une trousse de maquillage, des lunettes…Plus de sacs créateurs originaux. Mais en plus de cet aspect utile,
                le sac à main peut donner du style à votre tenue et la transformer en une véritable gravure de mode.
@@ -113,18 +114,18 @@
             </p>
           </div>
           <div class="col-md-5">
-            <img src=" img\sac1.jpg" width="98%"  > 
+            <img src=" img\sac1.jpg" width="98%"  >
           </div>
          </div>
-    
+
          <hr class="featurette-divider">
-    
-      
+
+
         <!-- /END THE FEATURETTES -->
-      
+
       </div><!-- /.container -->
-    
-    
+
+
       <!-- FOOTER -->
       <?php include("footer.php"); ?>
     </main>

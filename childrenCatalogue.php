@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>EMI Shop</title>
+<link rel="icon" type="iamge/png" href="img\logoo.png" />
 
     <!-- Our Js -->
     <script src="js/javascript.js"></script>
@@ -34,7 +35,7 @@
       <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img"><rect width="100%" height="100%" fill="#777"/></svg>
       <div class="container">
         <div class="carousel-caption text-left">
-         
+
           <h4> Soyez le Bienvenue dans notre shop </h4>
           <p><a class="btn btn-lg btn-primary" href="Inscription.php" role="button">S'inscrire aujourd'hui</a></p>
         </div>
@@ -97,10 +98,10 @@
   </div><!-- /.row -->
        <div id="acceuilProducts">
         <!-- START THE FEATURETTES -->
-    
+
          <br class="featurette-divider">
-    
-    
+
+
         <div class="row featurette">
           <div class="col-md-7">
             <h2 class="featurette-heading">Chariot de marche pour les enfants <span class="text-muted">Entrainer vos enfants a faire leurs premiers pas !</span></h2>
@@ -119,17 +120,17 @@ Contenu de l’emballage :
 1 x Chariot de marche pour bébé.</p>
           </div>
           <div class="col-md-5">
-            <img src=" img\childrenproduct.jpg" width="90%"  > 
+            <img src=" img\childrenproduct.jpg" width="90%"  >
           </div>
         </div>
-    
+
         <hr class="featurette-divider">
        </div>
         <!-- /END THE FEATURETTES -->
-      
+
       </div><!-- /.container -->
     <br><br><br><br>
-    
+
       <!-- FOOTER -->
       <?php include("footer.php"); ?>
     </main>

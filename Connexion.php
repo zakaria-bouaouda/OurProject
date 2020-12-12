@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>EMI Shop</title>
+<link rel="icon" type="iamge/png" href="img\logoo.png" />
 
     <!-- Our Js -->
     <script src="js/javascript.js"></script>
@@ -33,7 +34,7 @@
     </div>
   <button type="submit" class="btn btn-primary" style="margin-bottom: 2cm;" >Se connecter</button>
   <br>
-</form> 
+</form>
 <div>
   <br>
   <a></a>
